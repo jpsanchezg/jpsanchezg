@@ -96,7 +96,7 @@
 
 ## Github Stats  
 <div ><img  src="https://github-readme-stats.vercel.app/api?username=jpsanchezg&show_icons=true&count_private=true&hide_border=true&theme=algolia" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsanchezg&langs_count=8&layout=compact&theme=algolia" /></div>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsanchezg&langs_count=8&layout=compact&hide_border=true&theme=algolia" /></div>
 
 <br/>  
 
