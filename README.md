@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Juan Pablo Sanchez Gaitan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Juan Pablo Sanchez Gaitan, a full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m studing systems engineering  
+- 🔭 I’m studing systems engineering at Javeriana University
   
 
 - 🌱 I’m currently learning react native and mongoDB  
   
 
-- ❓ Ask me about anything  [here](https://github.com/lordcidiak/lordcidiak/issues) 
+- ❓ Ask me about anything  [here](https://github.com/jpsanchezg/jpsanchezg/issues) 
   
 
 - ⚡ Fun fact: I hate MACos  
