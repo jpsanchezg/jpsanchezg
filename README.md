@@ -92,15 +92,15 @@
 
 
 ## Github Stats  
-<div ><img align="left" src="https://github-readme-stats.vercel.app/api?username=lordcidiak&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordcidiak&langs_count=8&layout=compact&theme=algolia" /></div>
+<div ><img align="left" src="https://github-readme-stats.vercel.app/api?username=jpsanchezg&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsanchezg&langs_count=8&layout=compact&theme=algolia" /></div>
 
 <br/>  
 
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lordcidiak&&style=flat-square" align="center" />
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=jpsanchezg&&style=flat-square" align="center" />
 </div>  
   
 
