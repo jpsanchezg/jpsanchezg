@@ -89,6 +89,9 @@
   
 
 <br/>  
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=jpsanchezg&&style=flat-square" align="center" />
+</div> 
 
 
 ## Github Stats  
@@ -99,9 +102,7 @@
 
 
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=jpsanchezg&&style=flat-square" align="center" />
-</div>  
+ 
   
 
 <br/>  
