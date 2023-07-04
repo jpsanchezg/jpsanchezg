@@ -24,7 +24,7 @@
 ## My Skill Set  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,figma,kotlin,py,react,vscode,c,java,nodejs,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,figma,kotlin,py,react,vscode,c,java,nodejs,cpp,django" />
   </a>
 </p>
 
