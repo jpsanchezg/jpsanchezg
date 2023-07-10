@@ -56,7 +56,7 @@
 
 ## Github Stats  
 
-![Juan Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsanchezga&show_icons=true&theme=radical)
+![Juan Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsanchezg&show_icons=true&theme=radical)
 
 
 <br/>  
