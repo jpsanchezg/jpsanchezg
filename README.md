@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% height="200px" />
-</div>  
-  
+
 
 ### <div align="center">I'm Juan Pablo Sanchez Gaitan, a full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
@@ -9,13 +6,13 @@
 - 🔭 I’m studing systems engineering at Javeriana University
   
 
-- 🌱 I’m currently learning android
+- 🌱 I’m currently developing an app on android
   
 
 - ❓ Ask me about anything  [here](https://github.com/jpsanchezg/jpsanchezg/issues) 
   
 
-- ⚡ Fun fact: I hate MACos  
+- ⚡ Fun fact: I am a coffee addict and whenever I program I have to have a cup next to me. 
   
 
 <br/>  
@@ -60,11 +57,6 @@
 
 
 <br/>  
-
-
-
- 
-  
 
 <br/>  
 
