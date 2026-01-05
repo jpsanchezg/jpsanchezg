@@ -1,65 +1,72 @@
 
 
-### <div align="center">I'm Juan Pablo Sanchez Gaitan, a full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
+### <div align="center">I'm Juan Pablo Sánchez Gaitán, a Full-Stack & Mobile Developer 👨‍💻🚀</div>
 
-- 🔭 I’m studing systems engineering at Javeriana University
-  
+<div align="center">
+Remote developer since 2020 • Systems Engineer (Pontificia Universidad Javeriana)
+</div>
 
-- 🌱 I’m currently developing an app on android
-  
+<br/>
 
-- ❓ Ask me about anything  [here](https://github.com/jpsanchezg/jpsanchezg/issues) 
-  
+- 🎓 **Systems Engineer**, graduated from **Pontificia Universidad Javeriana**
+- 💼 **Software Engineer at Wesdom** & **Belozfi**
+- 📱 Specialized in **mobile development (Android & React Native)** and **full-stack solutions**
+- 🔐 Experience building **secure mobile applications** (anti-root / anti-Frida, native security)
+- 🌍 Working remotely with multidisciplinary teams
+- ❓ Ask me about anything [here](https://github.com/jpsanchezg/jpsanchezg/issues)
+- ☕ Fun fact: Coffee is part of my development stack — I never code without a cup nearby
 
-- ⚡ Fun fact: I am a coffee addict and whenever I program I have to have a cup next to me. 
-  
+<br/>
 
-<br/>  
+## 🛠️ My Skill Set
 
-
-## My Skill Set  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,figma,kotlin,py,react,vscode,c,java,nodejs,cpp,django" />
   </a>
 </p>
 
-<br/>  
+<br/>
 
+## 💼 Professional Experience
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/jpsanchezg" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/unpoemaesunico" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/jpsanchezg" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/juanpasanch3" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+**Wesdom** — *Software Engineer*  
+- Mobile and full-stack development  
+- React Native applications and REST API integrations  
+- Implementation of native mobile security mechanisms (anti-root / anti-Frida)
 
-<br/>  
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=jpsanchezg&&style=flat-square" align="center" />
-</div> 
+<br/>
 
+**Belozfi** — *Software Engineer*  
+- Development of scalable digital products  
+- Backend services and modern front-end solutions  
+- Collaboration with cross-functional teams
 
-## Github Stats  
+<br/>
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://github.com/jpsanchezg" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/unpoemaesunico" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/jpsanchezg" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/juanpasanch3" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jpsanchezg&&style=flat-square" />
+
+<br/>
+
+## 📊 GitHub Stats
 
 ![Juan Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsanchezg&show_icons=true&theme=radical)
-
-
-<br/>  
-
-<br/>  
-
-
-<br />
-
