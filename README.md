@@ -8,8 +8,7 @@ Remote developer since 2020 • Systems Engineer (Pontificia Universidad Javeria
 
 <br/>
 
-- 🎓 **Systems Engineer**, graduated from **Pontificia Universidad Javeriana**
-- 💼 **Software Engineer at Wesdom** & **Belozfi**
+- 🎓 **Software Engineer**, graduated from **Pontificia Universidad Javeriana**
 - 📱 Specialized in **mobile development (Android & React Native)** and **full-stack solutions**
 - 🔐 Experience building **secure mobile applications** (anti-root / anti-Frida, native security)
 - 🌍 Working remotely with multidisciplinary teams
